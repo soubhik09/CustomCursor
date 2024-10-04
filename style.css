@@ -10,6 +10,8 @@ html, body{
     height: 100%;
     font-family: "Nunito", sans-serif;
     color: #ffffff;
+    overflow-x: hidden;
+    overflow-y: hidden;
 }
 #main{
     width: 100%;
